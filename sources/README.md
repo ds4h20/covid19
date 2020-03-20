@@ -1,6 +1,6 @@
-#Different others datasources
+**Different others datasources**
 
-##Genomics Drug Data
+**Genomics Drug Data**
 
 ZINC Database: https://zinc.docking.org/
 
@@ -20,22 +20,21 @@ Drug Connectivity Map (CMap): https://clue.io/data/
 
 NextStrain: https://github.com/nextstrain/ncov
 
-COVID Statistics
+**COVID Statistics**
 
 https://datarepository.wolframcloud.com/resources/Patient-Medical-Data-for-Novel-Coronavirus-COVID-19
 
 https://datarepository.wolframcloud.com/resources/Genetic-Sequences-for-the-SARS-CoV-2-Coronavirus
 
-Covid Research Papers
+**Covid Research Papers**
 
 https://pages.semanticscholar.org/coronavirus-research
 
-
-Press Briefing
+**Press Briefing**
 
 https://www.who.int/emergencies/diseases/novel-coronavirus-2019/media-resources/press-briefings
 
-Media Sources COVID-19
+**Media Sources COVID-19**
 
 https://www.moh.gov.sg/covid-19/
 
@@ -52,7 +51,7 @@ cases/)
 
 https://experience.arcgis.com/experience/685d0ace521648f8a5beeeee1b9125cd
 
-Dashboard Visualizations
+**Dashboard Visualizations**
 
 http://covidly.com/map
 
@@ -62,32 +61,33 @@ https://observablehq.com/collection/@observablehq/coronavirus
 
 https://observablehq.com/collection/@observablehq/coronavirus
 
-Communities
+**Communities**
 
 COVID19 Graph Database Community
 
 COVID19 General Community Chat
 
-Data Modeling
+**Data Modeling**
 
 https://alhill.shinyapps.io/COVID19seir/
 
-Open World Data
+**Open World Data**
 
 https://api.openaq.org/v1/measurements?coordinates=30.549,114.3&radius=20000&date_from=2020-01-09&date_to=2020-01-30&parameter=no2&limit=10000 //thought was to use the air quality score and identify patterns between lockdown efficiencies, emissions, and rtae of COVID-19 spread
 
 https://github.com/Rank23/COVID19/blob/master/population.csv
-Visualizations
+
+**Visualizations**
 
 https://informationisbeautiful.net/visualizations/covid-19-coronavirus-infographic-datapack/
 
 https://nextstrain.org/ncov
 
-Python Package
+**Python Package**
 
 https://github.com/sudharshan-ashok/pycovid
 
-Jupyter Notebook
+**Jupyter Notebook**
 
 https://colab.research.google.com/drive/1TLUcYR-CqxTGzw-g5Ap2yzh-b2WZMrrr
 
