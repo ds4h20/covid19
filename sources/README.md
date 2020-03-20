@@ -60,12 +60,6 @@ https://observablehq.com/collection/@observablehq/coronavirus
 
 https://observablehq.com/collection/@observablehq/coronavirus
 
-**Communities**
-
-COVID19 Graph Database Community
-
-COVID19 General Community Chat
-
 **Data Modeling**
 
 https://alhill.shinyapps.io/COVID19seir/
